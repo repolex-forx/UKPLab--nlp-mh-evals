@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "UKPLab",
+  "repo": "nlp-mh-evals",
+  "versions": [
+    {
+      "commit": "8930c5e61b25026516b65f6b1bceb3a2dcef7583",
+      "parsed_at": "2026-11-08T12:12:42.551069+00:00",
+      "filetree": "filetree/8930c5e61b25026516b65f6b1bceb3a2dcef7583.nq.gz",
+      "blobs": [
+        "blob/1bf1b1028f388f4321492dfc1b077fbd50c240ed.nq.gz",
+        "blob/bd6213e1dfe6b0a79ce7d8b37d0d2dc70f0250bb.nq.gz",
+        "blob/5253d3ad9e6be6690549cb255f5952337b02401d.nq.gz",
+        "blob/231270e246cae3af74f6f0522ddf51fabf71d6ad.nq.gz",
+        "blob/33ad091d26d8a9dc95ebdf616e217d985ec215b8.nq.gz",
+        "blob/d563c0fb10ba0e42724b21286eb546ee4e5734fc.nq.gz",
+        "blob/5a666547730235fbc33297f57a27fddd3897e160.nq.gz",
+        "blob/1f03afeece5ac28064fa3c73a29215037465f789.nq.gz",
+        "blob/0846f83a1fcc7b425341caf32c03496c975be7f2.nq.gz",
+        "blob/74b5e053450a48a6bdb4d71aad648e7af821975c.nq.gz",
+        "blob/549f38fdd3f6838ee5905e576269a7e1909df62f.nq.gz",
+        "blob/e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e.nq.gz",
+        "blob/dcb76b6b6353389a99a3a18377b668a1a4d117c1.nq.gz",
+        "blob/9dfc1c058cebbef8b891c5062be6f31033d7d186.nq.gz",
+        "blob/e352b388275e40b88b9a843f45eec1ab0d864f8e.nq.gz",
+        "blob/8f2609b7b3e0e3897ab3bcaad13caf6876e48699.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

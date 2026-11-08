@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "nlp-mh-evals",
+  "versions": [
+    {
+      "commit": "8930c5e61b25026516b65f6b1bceb3a2dcef7583",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:16:14.822794+00:00"
+    }
+  ]
+}
